@@ -35,11 +35,11 @@ Built with **React**, **TypeScript**, **Redux**, **Bootstrap**, and **Face-API.j
 
 ## 📂 Project Structure
 
-/public/models/ → Pre-trained Face-API.js models
-/src/components/ → React components (UploadImage, WebcamView)
-/src/utils/ → Face detection utilities
-/src/redux/ → Redux store and slices
-/src/ → Main application structure
+- /public/models/ → Pre-trained Face-API.js models
+- /src/components/ → React components (UploadImage, WebcamView)
+- /src/utils/ → Face detection utilities
+- /src/redux/ → Redux store and slices
+- /src/ → Main application structure
 
 ---
 
